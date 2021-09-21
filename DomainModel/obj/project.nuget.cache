@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1Wl21IjfeaKvHUXz2j6cRGWoLHSV5v4A2mRQRBdLJCrxmeWqs3d17O6oBTUrzlQESpzYftUpAoncw283HkfOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres\\Documents\\Api_hogwarts-main\\DomainModel\\DomainModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

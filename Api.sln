@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Hechiceria_Hogwarts\Api.csproj", "{2A24A341-774F-49F4-8A2D-6D2CF1ED5962}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{AFCC905E-DDD9-4D1C-82F0-536055F61444}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AcessData", "AcessData", "{123A9453-C57D-439B-A479-36BC20C327D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainModel", "DomainModel", "{5007DB1D-D435-426D-9E5A-C5702FA7720B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainModel", "DomainModel\DomainModel.csproj", "{9DC94837-D9C1-4BB4-BDAB-39168C13A1CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{97660640-536F-4750-BDC2-71F9309AD3C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tets", "Tets", "{EFB07F3E-9D6B-4E78-9CBB-F61C12D52019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{36A9F900-DF53-4580-A27A-F5A02ACBF640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A24A341-774F-49F4-8A2D-6D2CF1ED5962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A24A341-774F-49F4-8A2D-6D2CF1ED5962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A24A341-774F-49F4-8A2D-6D2CF1ED5962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A24A341-774F-49F4-8A2D-6D2CF1ED5962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC94837-D9C1-4BB4-BDAB-39168C13A1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC94837-D9C1-4BB4-BDAB-39168C13A1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC94837-D9C1-4BB4-BDAB-39168C13A1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC94837-D9C1-4BB4-BDAB-39168C13A1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97660640-536F-4750-BDC2-71F9309AD3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97660640-536F-4750-BDC2-71F9309AD3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97660640-536F-4750-BDC2-71F9309AD3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97660640-536F-4750-BDC2-71F9309AD3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A9F900-DF53-4580-A27A-F5A02ACBF640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A9F900-DF53-4580-A27A-F5A02ACBF640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A9F900-DF53-4580-A27A-F5A02ACBF640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A9F900-DF53-4580-A27A-F5A02ACBF640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A24A341-774F-49F4-8A2D-6D2CF1ED5962} = {AFCC905E-DDD9-4D1C-82F0-536055F61444}
+		{9DC94837-D9C1-4BB4-BDAB-39168C13A1CC} = {5007DB1D-D435-426D-9E5A-C5702FA7720B}
+		{97660640-536F-4750-BDC2-71F9309AD3C8} = {123A9453-C57D-439B-A479-36BC20C327D2}
+		{36A9F900-DF53-4580-A27A-F5A02ACBF640} = {EFB07F3E-9D6B-4E78-9CBB-F61C12D52019}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D59FB479-C074-4262-A43A-100A75B16261}
+	EndGlobalSection
+EndGlobal
