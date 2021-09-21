@@ -1,11 +1,11 @@
-# [Api_Facturas](https://github.com/andfe008/Api_Factura.git)
+# [Api_Facturas](https://github.com/andfe008/Api_Factura/tree/master)
 
 
 ## Quick start
 Download the repository from:
 
-- [Download zip](https://github.com/andfe008/Api_Factura/archive/refs/heads/main.zip)
-- [Cloning the repository](https://github.com/andfe008/Api_Factura.git)
+- [Download zip](https://github.com/andfe008/Api_Factura/archive/refs/heads/master.zip)
+- [Cloning the repository](https://github.com/andfe008/Api_Factura/tree/master)
 
 uses version .net core 5.0
 
